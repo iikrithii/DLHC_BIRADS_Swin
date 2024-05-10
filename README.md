@@ -1,4 +1,4 @@
-<h1>**Multi-View Swin Transformer for Mammographic Image Classification**</h1>
+<h1>Multi-View Swin Transformer for Mammographic Image Classification</h1>
 
 This repository contains the implementation of a multi-view Swin Transformer model for mammographic image classification. The model is designed to classify mammogram images into different categories, aiding in the early detection of breast cancer.
 
