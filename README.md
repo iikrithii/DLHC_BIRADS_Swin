@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a multi-view Swin Transformer model for mammographic image classification. The model is designed to classify mammogram images into different categories, aiding in the early detection of breast cancer.
 
+[Project video]{https://drive.google.com/file/d/16xNKFfQuci246S_LzhUfEd-g87CGyYJF/view?usp=sharing}
+
 <h2>Dataset Preprocessing:</h2>
 
 The dataset used in this project consists of mammographic images in DICOM format. However, as DICOM format is not directly compatible with deep learning frameworks, the images were converted to the more widely supported TIFF format for ease of use.
